@@ -36,11 +36,11 @@ Darkness.exe é um trojan identificado como "Trojan GDI". Sintomas de Infecção
 
 # Nome do Arquivo
 
-    Darkness.exe
+   Darkness.exe
 
 # Tipo de Malware
 
-    Trojan GDI
+   Trojan GDI
 
 
 # !! ATEMÇÃO !!
