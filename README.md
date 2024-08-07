@@ -1,2 +1,5 @@
 # Darkness
-Gdi-Trojan.Win32
+-$(INGLESH)$-
+
+
+-$(PT-BR)$-
