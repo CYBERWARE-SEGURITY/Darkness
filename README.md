@@ -3,7 +3,7 @@
 *(INGLESH)*
 # Description
 
-Darkness.exe is a trojan identified as "Trojan GDI". Symptoms of Infection:
+📦 Darkness.exe is a trojan identified as "Trojan GDI". Symptoms of Infection:
 
    - Changes to Password and Main Username
    - Epileptic GDI Effects
@@ -11,24 +11,24 @@ Darkness.exe is a trojan identified as "Trojan GDI". Symptoms of Infection:
    - Wallpaper Changes
    - Annoying Audio
 
-# File Name
+# File Name🩸
 
   Darkness.exe
 
-# Malware Type
+# Malware Type💧
 
   Trojan GDI
 
-# !! WARNING !!
+# ‼ WARNING ‼
 
 Any individual use of this malware or malicious use is not the responsibility of CYBERWARE and INDOAMANSINHO. USE RESPONSIBLY and TEST ONLY ON VIRTUAL MACHINES
 
 *(PT-BR)*
-# Darkness.exe - Trojan GDI
+## Darkness.exe
 # Descrição
 
 Darkness.exe é um trojan identificado como "Trojan GDI". Sintomas de Infecção:
-  - Alterações da Senha e Nome do Usuário Pricipal
+  - Alterações da Senha e Nome do Usuário Principal
   - Efeitos Gdi Epiléticos
   - Aberturas de Links
   - Mudança do Wallpaper
