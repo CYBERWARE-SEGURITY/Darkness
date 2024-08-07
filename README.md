@@ -1,8 +1,6 @@
 ## Darkness
 
 *(INGLESH)*
-## Darkness.exe - Trojan GDI
-
 # Description
 
 Darkness.exe is a trojan identified as "Trojan GDI". Symptoms of Infection:
