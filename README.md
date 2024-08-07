@@ -1,5 +1,5 @@
 # Darkness
--$(INGLESH)$-
+*(INGLESH)*
 
 
--$(PT-BR)$-
+*(PT-BR)*
